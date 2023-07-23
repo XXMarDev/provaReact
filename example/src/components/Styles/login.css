@@ -1,0 +1,43 @@
+.container {
+    background-color: ghostwhite;
+    height: 400px;
+    width: 300px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.title {
+    text-align: center;
+    color: #333333;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 30px;
+}
+
+.credenziali {
+    text-align: center;
+}
+
+.credenziali input {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: ghostwhite;
+    height: 30px;
+    text-align: center;
+    
+}
+
+ button {
+    margin-top: -200px;
+    border-radius: 15px;
+    height: 40px;
+    width: 80px;
+    background-color: #4E79A7;
+    border: none;
+}

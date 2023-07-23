@@ -1,0 +1,19 @@
+.nome {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cognome {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 50px;
+}
+
+.anno {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
+}
+
+.lista {
+    background-color: lightgreen;
+    width: 200px;
+    height: 500px;
+}
